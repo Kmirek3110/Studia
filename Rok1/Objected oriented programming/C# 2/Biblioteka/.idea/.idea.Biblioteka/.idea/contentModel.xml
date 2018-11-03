@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\chemi\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_Biblioteka.-71085465.00" t="ExcludeRecursive" />
+    <e p="C:\Users\chemi\Desktop\Programowanie\PO\Lista3\Biblioteka" t="IncludeFlat">
+      <e p="Biblioteka" t="IncludeRecursive">
+        <e p="Biblioteka.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DodatkowaKlasa.cs" t="Include" />
+        <e p="Lista.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Biblioteka.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Biblioteka.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

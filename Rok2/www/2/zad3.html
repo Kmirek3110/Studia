@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+
+<title>Title of the document"</title>
+<meta charset ="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <style type="text/css">
+        p {
+            /*type*/
+            background-color: blue;
+        }
+        p span {
+            /*descendant*/
+            border: dotted 1px;
+            background-color: yellow;
+        }
+        div > span {
+            /*child*/
+            border: groove 2px blue;
+        }
+        div + h1 {
+            /*adjacent*/
+            border: dotted 2px;
+            text-align: center;
+        }
+        #my_txt {
+            color: lightblue;
+        }
+        .class {
+            /*class*/
+            width: 200px;
+            background-color: orange;
+        }
+    </style>
+</head>
+
+<body>
+    
+
+<p>p</p>
+
+<p class="class">class</p>
+
+<p>
+    <span>span w p</span>
+</p>
+
+<div>
+        <span>span w div</span>
+</div>
+
+ <span >span</span>
+
+    
+<h1>h1 przed div</h1>
+    <div id="my_txt">Karol mirek</div>
+
+<h1>h1 po div</h1>
+
+</body>
+</html>

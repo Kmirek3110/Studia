@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1520876128 source:c:\users\chemi\desktop\programowanie\c++\3\stos\main.cpp
+	<iostream>
+	"stos.h"
+	<initializer_list>
+
+1521107055 c:\users\chemi\desktop\programowanie\c++\3\stos\stos.h
+	<stdexcept>
+	<cmath>
+	<initializer_list>
+
+1520871587 source:c:\users\chemi\desktop\programowanie\c++\3\stos\stos.cpp
+	<cstdlib>
+	<iostream>
+	"stos.h"
+	<initializer_list>
+

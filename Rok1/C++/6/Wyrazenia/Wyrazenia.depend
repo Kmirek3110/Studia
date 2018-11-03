@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1523281505 source:c:\users\chemi\desktop\programowanie\c++\6\wyrazenia\main.cpp
+	<iostream>
+	<cmath>
+	"Wyrazenie.h"
+	"Stala.h"
+	"Operator0.h"
+	"Operator1.h"
+	"Sinus.h"
+	"E.h"
+	<cstdio>
+	"Dodaj.h"
+	"Zmienna.h"
+
+1523266319 c:\users\chemi\desktop\programowanie\c++\6\wyrazenia\include\wyrazenie.h
+
+1523287996 c:\users\chemi\desktop\programowanie\c++\6\wyrazenia\stala.h
+	"Wyrazenie.h"
+
+1523287863 c:\users\chemi\desktop\programowanie\c++\6\wyrazenia\operator0.h
+	"Wyrazenie.h"
+
+1523123959 source:c:\users\chemi\desktop\programowanie\c++\6\wyrazenia\src\wyrazenie.cpp
+	"Wyrazenie.h"
+
+1523288020 source:c:\users\chemi\desktop\programowanie\c++\6\wyrazenia\stala.cpp
+	"Stala.h"
+	"Wyrazenie.h"
+	<string>
+
+1523290298 c:\users\chemi\desktop\programowanie\c++\6\wyrazenia\operator1.h
+	"Operator0.h"
+
+1523262828 c:\users\chemi\desktop\programowanie\c++\6\wyrazenia\1arg.h
+	"Operator1.h"
+	<cmath>
+
+1523288096 c:\users\chemi\desktop\programowanie\c++\6\wyrazenia\sinus.h
+	"Operator1.h"
+	<cmath>
+
+1523287863 c:\users\chemi\desktop\programowanie\c++\6\wyrazenia\e.h
+	"Operator0.h"
+	<cmath>
+	<cstdio>
+
+1523287902 c:\users\chemi\desktop\programowanie\c++\6\wyrazenia\dodaj.h
+	"Wyrazenie.h"
+	"Operator2.h"
+	<stdexcept>
+
+1523289935 c:\users\chemi\desktop\programowanie\c++\6\wyrazenia\operator2.h
+	"Operator1.h"
+
+1523287863 source:c:\users\chemi\desktop\programowanie\c++\6\wyrazenia\dodaj.cpp
+	"Dodaj.h"
+	<cmath>
+
+1523266182 c:\users\chemi\desktop\programowanie\c++\6\wyrazenia\wyra.h
+	<string>
+
+1523287863 c:\users\chemi\desktop\programowanie\c++\6\wyrazenia\wyrazenie.h
+	<string>
+
+1523289778 source:c:\users\chemi\desktop\programowanie\c++\6\wyrazenia\zmienna.cpp
+	"Zmienna.h"
+
+1523289787 c:\users\chemi\desktop\programowanie\c++\6\wyrazenia\zmienna.h
+	"Wyrazenie.h"
+	<string>
+	<vector>
+	<stdexcept>
+

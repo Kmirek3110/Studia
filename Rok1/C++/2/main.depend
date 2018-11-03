@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1519983859 source:c:\users\chemi\desktop\programowanie\c++\2\codeblocks\main\zad2_punkt.cpp
+	<cstdlib>
+	"zad2_punkt.h"
+	"zad2_wektor.h"
+
+1519986859 c:\users\chemi\desktop\programowanie\c++\2\codeblocks\main\zad2_punkt.h
+	"zad2_wektor.h"
+
+1519986858 c:\users\chemi\desktop\programowanie\c++\2\codeblocks\main\zad2_wektor.h
+
+1519986308 source:c:\users\chemi\desktop\programowanie\c++\2\codeblocks\main\zad2_wektor.cpp
+	"zad2_wektor.h"
+
+1519987961 source:c:\users\chemi\desktop\programowanie\c++\2\codeblocks\main\zad2_prosta.cpp
+	<math.h>
+	<stdexcept>
+	"zad2_prosta.h"
+
+1519987961 c:\users\chemi\desktop\programowanie\c++\2\codeblocks\main\zad2_prosta.h
+	"zad2_wektor.h"
+	"zad2_punkt.h"
+	<stdexcept>
+	<cmath>
+
+1519986228 source:c:\users\chemi\desktop\programowanie\c++\2\codeblocks\main\main.cpp
+	<cstdlib>
+	<iostream>
+	<climits>
+	<vector>
+	<stdexcept>
+	<sstream>
+	<cmath>
+	<cstdint>
+	<fstream>
+	"zad2_wektor.h"
+	"zad2_punkt.h"
+	"zad2_prosta.h"
+
+1520275883 source:c:\users\chemi\desktop\programowanie\c++\2\zad2_punkt.cpp
+	<cstdlib>
+	"zad2_punkt.h"
+	"zad2_wektor.h"
+
+1520508029 c:\users\chemi\desktop\programowanie\c++\2\zad2_punkt.h
+	"zad2_wektor.h"
+
+1521986332 c:\users\chemi\desktop\programowanie\c++\2\zad2_wektor.h
+
+1520276403 source:c:\users\chemi\desktop\programowanie\c++\2\zad2_wektor.cpp
+	"zad2_wektor.h"
+
+1520508124 source:c:\users\chemi\desktop\programowanie\c++\2\main.cpp
+	<cstdlib>
+	<iostream>
+	<climits>
+	<vector>
+	<stdexcept>
+	<sstream>
+	<cmath>
+	<cstdint>
+	<fstream>
+	"zad2_wektor.h"
+	"zad2_punkt.h"
+	"zad2_prosta.h"
+
+1520275119 c:\users\chemi\desktop\programowanie\c++\2\zad2_prosta.h
+	"zad2_wektor.h"
+	"zad2_punkt.h"
+	<stdexcept>
+	<cmath>
+
+1520275907 source:c:\users\chemi\desktop\programowanie\c++\2\zad2_prosta.cpp
+	<math.h>
+	<cmath>
+	<stdexcept>
+	"zad2_prosta.h"
+

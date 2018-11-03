@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b305dac-24e8-4f2c-bae4-bf1602a491f7" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DodatkowaKlasa.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Biblioteka/DodatkowaKlasa.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+              <folding>
+                <marker date="1521125532961" expanded="true" signature="0:143" ph="/* Karol Mirek ... */" />
+                <marker date="1521125532961" expanded="true" signature="158:458" ph="{...}" />
+                <marker date="1521125532961" expanded="true" signature="190:456" ph="{...}" />
+                <marker date="1521125532961" expanded="true" signature="336:450" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lista.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Biblioteka/Lista.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+              <folding>
+                <marker date="1521125763586" expanded="true" signature="0:134" ph="/* Karol Mirek ... */" />
+                <marker date="1521125763586" expanded="false" signature="141:309" ph="..." />
+                <marker date="1521125763586" expanded="true" signature="325:3052" ph="{...}" />
+                <marker date="1521125763586" expanded="true" signature="368:3050" ph="{...}" />
+                <marker date="1521125763586" expanded="true" signature="437:508" ph="{...}" />
+                <marker date="1521125763586" expanded="true" signature="585:938" ph="{...}" />
+                <marker date="1521125763586" expanded="true" signature="702:783" ph="{...}" />
+                <marker date="1521125763586" expanded="true" signature="800:928" ph="{...}" />
+                <marker date="1521125763586" expanded="true" signature="1002:1375" ph="{...}" />
+                <marker date="1521125763586" expanded="true" signature="1123:1212" ph="{...}" />
+                <marker date="1521125763586" expanded="true" signature="1229:1365" ph="{...}" />
+                <marker date="1521125763586" expanded="true" signature="1449:1959" ph="{...}" />
+                <marker date="1521125763586" expanded="true" signature="1490:1657" ph="{...}" />
+                <marker date="1521125763586" expanded="true" signature="1674:1949" ph="{...}" />
+                <marker date="1521125763586" expanded="true" signature="2033:2559" ph="{...}" />
+                <marker date="1521125763586" expanded="true" signature="2074:2239" ph="{...}" />
+                <marker date="1521125763586" expanded="true" signature="2256:2549" ph="{...}" />
+                <marker date="1521125763586" expanded="true" signature="2619:2675" ph="{...}" />
+                <marker date="1521125763586" expanded="true" signature="2730:3043" ph="{...}" />
+                <marker date="1521125763586" expanded="true" signature="2905:3033" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Biblioteka/DodatkowaKlasa.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Biblioteka/Lista.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Biblioteka/Class2.cs" />
+        <option value="$PROJECT_DIR$/Biblioteka/Class1.cs" />
+        <option value="$PROJECT_DIR$/Biblioteka/DodatkowaKlasa.cs" />
+        <option value="$PROJECT_DIR$/Biblioteka/Lista.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-18" />
+    <option name="y" value="165" />
+    <option name="width" value="1284" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Biblioteka (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b305dac-24e8-4f2c-bae4-bf1602a491f7" name="Default" comment="" />
+      <created>1521110084687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521110084687</updated>
+      <workItem from="1521110086054" duration="300000" />
+      <workItem from="1521110479311" duration="5000" />
+      <workItem from="1521112599547" duration="77000" />
+      <workItem from="1521112819393" duration="2807000" />
+      <workItem from="1521115667367" duration="98000" />
+      <workItem from="1521115820927" duration="677000" />
+      <workItem from="1521116546104" duration="882000" />
+      <workItem from="1521120040934" duration="5873000" />
+      <workItem from="1521133166991" duration="25000" />
+      <workItem from="1521462342184" duration="15000" />
+      <workItem from="1522869147510" duration="80000" />
+      <workItem from="1522873161058" duration="114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10953000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23133236" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Biblioteka/DodatkowaKlasa.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <marker date="1521125532961" expanded="true" signature="0:143" ph="/* Karol Mirek ... */" />
+            <marker date="1521125532961" expanded="true" signature="158:458" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="190:456" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="336:450" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biblioteka/Lista.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="120" column="5" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="120" selection-end-column="5" />
+          <folding>
+            <marker date="1521125763586" expanded="true" signature="0:134" ph="/* Karol Mirek ... */" />
+            <marker date="1521125763586" expanded="false" signature="141:309" ph="..." />
+            <marker date="1521125763586" expanded="true" signature="325:3052" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="368:3050" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="437:508" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="585:938" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="702:783" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="800:928" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1002:1375" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1123:1212" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1229:1365" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1449:1959" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1490:1657" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1674:1949" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2033:2559" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2074:2239" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2256:2549" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2619:2675" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2730:3043" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2905:3033" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biblioteka/DodatkowaKlasa.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <marker date="1521125532961" expanded="true" signature="0:143" ph="/* Karol Mirek ... */" />
+            <marker date="1521125532961" expanded="true" signature="158:458" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="190:456" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="336:450" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biblioteka/Lista.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="78" column="9" lean-forward="false" selection-start-line="78" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
+          <folding>
+            <marker date="1521125763586" expanded="true" signature="0:134" ph="/* Karol Mirek ... */" />
+            <marker date="1521125763586" expanded="false" signature="141:309" ph="..." />
+            <marker date="1521125763586" expanded="true" signature="325:3052" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="368:3050" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="437:508" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="585:938" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="702:783" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="800:928" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1002:1375" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1123:1212" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1229:1365" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1449:1959" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1490:1657" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1674:1949" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2033:2559" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2074:2239" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2256:2549" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2619:2675" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2730:3043" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2905:3033" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biblioteka/DodatkowaKlasa.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <marker date="1521125532961" expanded="true" signature="0:143" ph="/* Karol Mirek ... */" />
+            <marker date="1521125532961" expanded="true" signature="158:458" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="190:456" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="336:450" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biblioteka/Lista.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="78" column="9" lean-forward="false" selection-start-line="78" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
+          <folding>
+            <marker date="1521125763586" expanded="true" signature="0:134" ph="/* Karol Mirek ... */" />
+            <marker date="1521125763586" expanded="false" signature="141:309" ph="..." />
+            <marker date="1521125763586" expanded="true" signature="325:3052" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="368:3050" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="437:508" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="585:938" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="702:783" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="800:928" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1002:1375" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1123:1212" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1229:1365" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1449:1959" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1490:1657" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1674:1949" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2033:2559" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2074:2239" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2256:2549" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2619:2675" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2730:3043" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2905:3033" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biblioteka/DodatkowaKlasa.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <marker date="1521125532961" expanded="true" signature="0:143" ph="/* Karol Mirek ... */" />
+            <marker date="1521125532961" expanded="true" signature="158:458" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="190:456" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="336:450" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biblioteka/Lista.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="78" column="9" lean-forward="true" selection-start-line="78" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
+          <folding>
+            <marker date="1521125763586" expanded="true" signature="0:134" ph="/* Karol Mirek ... */" />
+            <marker date="1521125763586" expanded="false" signature="141:309" ph="..." />
+            <marker date="1521125763586" expanded="true" signature="325:3052" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="368:3050" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="437:508" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="585:938" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="702:783" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="800:928" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1002:1375" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1123:1212" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1229:1365" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1449:1959" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1490:1657" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1674:1949" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2033:2559" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2074:2239" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2256:2549" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2619:2675" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2730:3043" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2905:3033" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biblioteka/DodatkowaKlasa.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1521125532961" expanded="true" signature="0:143" ph="/* Karol Mirek ... */" />
+            <marker date="1521125532961" expanded="true" signature="158:458" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="190:456" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="336:450" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biblioteka/Lista.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="105" column="46" lean-forward="false" selection-start-line="105" selection-start-column="46" selection-end-line="105" selection-end-column="46" />
+          <folding>
+            <marker date="1521125763586" expanded="true" signature="0:134" ph="/* Karol Mirek ... */" />
+            <marker date="1521125763586" expanded="false" signature="141:309" ph="..." />
+            <marker date="1521125763586" expanded="true" signature="325:3052" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="368:3050" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="437:508" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="585:938" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="702:783" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="800:928" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1002:1375" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1123:1212" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1229:1365" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1449:1959" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1490:1657" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1674:1949" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2033:2559" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2074:2239" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2256:2549" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2619:2675" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2730:3043" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2905:3033" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biblioteka/DodatkowaKlasa.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1521125532961" expanded="true" signature="0:143" ph="/* Karol Mirek ... */" />
+            <marker date="1521125532961" expanded="true" signature="158:458" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="190:456" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="336:450" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biblioteka/Lista.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="110" column="30" lean-forward="false" selection-start-line="110" selection-start-column="30" selection-end-line="110" selection-end-column="30" />
+          <folding>
+            <marker date="1521125763586" expanded="true" signature="0:134" ph="/* Karol Mirek ... */" />
+            <marker date="1521125763586" expanded="false" signature="141:309" ph="..." />
+            <marker date="1521125763586" expanded="true" signature="325:3052" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="368:3050" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="437:508" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="585:938" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="702:783" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="800:928" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1002:1375" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1123:1212" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1229:1365" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1449:1959" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1490:1657" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1674:1949" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2033:2559" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2074:2239" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2256:2549" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2619:2675" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2730:3043" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2905:3033" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biblioteka/DodatkowaKlasa.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <marker date="1521125532961" expanded="true" signature="0:143" ph="/* Karol Mirek ... */" />
+            <marker date="1521125532961" expanded="true" signature="158:458" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="190:456" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="336:450" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biblioteka/Lista.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="88" column="9" lean-forward="true" selection-start-line="88" selection-start-column="9" selection-end-line="88" selection-end-column="9" />
+          <folding>
+            <marker date="1521125763586" expanded="true" signature="0:134" ph="/* Karol Mirek ... */" />
+            <marker date="1521125763586" expanded="false" signature="141:309" ph="..." />
+            <marker date="1521125763586" expanded="true" signature="325:3052" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="368:3050" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="437:508" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="585:938" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="702:783" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="800:928" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1002:1375" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1123:1212" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1229:1365" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1449:1959" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1490:1657" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1674:1949" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2033:2559" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2074:2239" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2256:2549" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2619:2675" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2730:3043" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2905:3033" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biblioteka/DodatkowaKlasa.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="36" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="36" />
+          <folding>
+            <marker date="1521125532961" expanded="true" signature="0:143" ph="/* Karol Mirek ... */" />
+            <marker date="1521125532961" expanded="true" signature="158:458" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="190:456" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="336:450" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biblioteka/Lista.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <marker date="1521125763586" expanded="true" signature="0:134" ph="/* Karol Mirek ... */" />
+            <marker date="1521125763586" expanded="false" signature="141:309" ph="..." />
+            <marker date="1521125763586" expanded="true" signature="325:3052" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="368:3050" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="437:508" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="585:938" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="702:783" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="800:928" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1002:1375" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1123:1212" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1229:1365" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1449:1959" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1490:1657" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1674:1949" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2033:2559" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2074:2239" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2256:2549" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2619:2675" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2730:3043" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2905:3033" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biblioteka/DodatkowaKlasa.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <marker date="1521125532961" expanded="true" signature="0:143" ph="/* Karol Mirek ... */" />
+            <marker date="1521125532961" expanded="true" signature="158:458" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="190:456" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="336:450" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biblioteka/Lista.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding>
+            <marker date="1521125763586" expanded="true" signature="0:134" ph="/* Karol Mirek ... */" />
+            <marker date="1521125763586" expanded="false" signature="141:309" ph="..." />
+            <marker date="1521125763586" expanded="true" signature="325:3052" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="368:3050" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="437:508" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="585:938" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="702:783" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="800:928" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1002:1375" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1123:1212" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1229:1365" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1449:1959" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1490:1657" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1674:1949" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2033:2559" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2074:2239" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2256:2549" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2619:2675" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2730:3043" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2905:3033" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biblioteka/DodatkowaKlasa.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1521125532961" expanded="true" signature="0:143" ph="/* Karol Mirek ... */" />
+            <marker date="1521125532961" expanded="true" signature="158:458" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="190:456" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="336:450" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biblioteka/Lista.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2227">
+          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding>
+            <marker date="1521125763586" expanded="true" signature="0:134" ph="/* Karol Mirek ... */" />
+            <marker date="1521125763586" expanded="false" signature="141:309" ph="..." />
+            <marker date="1521125763586" expanded="true" signature="325:3052" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="368:3050" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="437:508" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="585:938" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="702:783" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="800:928" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1002:1375" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1123:1212" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1229:1365" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1449:1959" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1490:1657" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1674:1949" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2033:2559" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2074:2239" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2256:2549" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2619:2675" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2730:3043" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2905:3033" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biblioteka/DodatkowaKlasa.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1521125532961" expanded="true" signature="0:143" ph="/* Karol Mirek ... */" />
+            <marker date="1521125532961" expanded="true" signature="158:458" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="190:456" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="336:450" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biblioteka/Lista.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2227">
+          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding>
+            <marker date="1521125763586" expanded="true" signature="0:134" ph="/* Karol Mirek ... */" />
+            <marker date="1521125763586" expanded="false" signature="141:309" ph="..." />
+            <marker date="1521125763586" expanded="true" signature="325:3052" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="368:3050" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="437:508" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="585:938" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="702:783" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="800:928" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1002:1375" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1123:1212" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1229:1365" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1449:1959" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1490:1657" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1674:1949" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2033:2559" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2074:2239" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2256:2549" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2619:2675" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2730:3043" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2905:3033" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biblioteka/Biblioteka.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Poprawne/Poprawn/Class3.cs" />
+    <entry file="file://$PROJECT_DIR$/../Poprawne/Poprawn/Class4.cs" />
+    <entry file="file://$PROJECT_DIR$/Biblioteka/Lista.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <marker date="1521125763586" expanded="true" signature="0:134" ph="/* Karol Mirek ... */" />
+            <marker date="1521125763586" expanded="false" signature="141:309" ph="..." />
+            <marker date="1521125763586" expanded="true" signature="325:3052" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="368:3050" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="437:508" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="585:938" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="702:783" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="800:928" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1002:1375" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1123:1212" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1229:1365" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1449:1959" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1490:1657" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="1674:1949" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2033:2559" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2074:2239" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2256:2549" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2619:2675" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2730:3043" ph="{...}" />
+            <marker date="1521125763586" expanded="true" signature="2905:3033" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Biblioteka/DodatkowaKlasa.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <marker date="1521125532961" expanded="true" signature="0:143" ph="/* Karol Mirek ... */" />
+            <marker date="1521125532961" expanded="true" signature="158:458" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="190:456" ph="{...}" />
+            <marker date="1521125532961" expanded="true" signature="336:450" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

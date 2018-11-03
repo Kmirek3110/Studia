@@ -1,0 +1,8 @@
+C:\Users\chemi\Desktop\Programowanie\PO\Lista3\Biblioteka\Biblioteka\bin\Debug\netcoreapp2.0\Biblioteka.deps.json
+C:\Users\chemi\Desktop\Programowanie\PO\Lista3\Biblioteka\Biblioteka\bin\Debug\netcoreapp2.0\Biblioteka.dll
+C:\Users\chemi\Desktop\Programowanie\PO\Lista3\Biblioteka\Biblioteka\bin\Debug\netcoreapp2.0\Biblioteka.pdb
+C:\Users\chemi\Desktop\Programowanie\PO\Lista3\Biblioteka\Biblioteka\obj\Debug\netcoreapp2.0\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\chemi\Desktop\Programowanie\PO\Lista3\Biblioteka\Biblioteka\obj\Debug\netcoreapp2.0\Biblioteka.AssemblyInfoInputs.cache
+C:\Users\chemi\Desktop\Programowanie\PO\Lista3\Biblioteka\Biblioteka\obj\Debug\netcoreapp2.0\Biblioteka.AssemblyInfo.cs
+C:\Users\chemi\Desktop\Programowanie\PO\Lista3\Biblioteka\Biblioteka\obj\Debug\netcoreapp2.0\Biblioteka.dll
+C:\Users\chemi\Desktop\Programowanie\PO\Lista3\Biblioteka\Biblioteka\obj\Debug\netcoreapp2.0\Biblioteka.pdb

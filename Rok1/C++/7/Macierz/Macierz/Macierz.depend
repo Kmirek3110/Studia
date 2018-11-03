@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1524497732 source:c:\users\chemi\desktop\programowanie\c++\7\macierz\macierz\macierz.cpp
+	"Macierz.hpp"
+	"Friend.hpp"
+
+1524504334 c:\users\chemi\desktop\programowanie\c++\7\macierz\macierz\macierz.hpp
+	<iostream>
+	<bits/stdc++.h>
+	<sstream>
+	<string>
+	"Wyjatki.hpp"
+
+1524493876 c:\users\chemi\desktop\programowanie\c++\7\macierz\macierz\wyjatki.hpp
+
+1524168594 c:\users\chemi\desktop\programowanie\c++\7\macierz\macierz\friend.hpp
+	"Macierz.hpp"
+
+1524498506 source:c:\users\chemi\desktop\programowanie\c++\7\macierz\macierz\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<sstream>
+	<string>
+	"Macierz.hpp"
+	"Wyjatki.hpp"
+

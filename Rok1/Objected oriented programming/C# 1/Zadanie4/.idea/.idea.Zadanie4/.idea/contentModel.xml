@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\chemi\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_Zadanie4.-1843248139.00" t="ExcludeRecursive" />
+    <e p="C:\Users\chemi\Desktop\Programowanie\ProgramowanieObiektowe\Lista2\Zadanie4" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Zadanie4" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="cos.cs" t="Include" />
+        <e p="Lista.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Zadanie4.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Zadanie4.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Zadanie4.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

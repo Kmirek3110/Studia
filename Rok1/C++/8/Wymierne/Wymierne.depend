@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1524660633 source:c:\users\chemi\desktop\programowanie\c++\7\macierz\wymierne\main.cpp
+	<iostream>
+	<climits>
+	"Wymierna.h"
+
+1524505112 c:\users\chemi\desktop\programowanie\c++\7\macierz\wymierne\wymierna.h
+	<stdexcept>
+	<iostream>
+	<math.h>
+	"Wyjatki.h"
+	<climits>
+
+1524660633 source:c:\users\chemi\desktop\programowanie\c++\7\macierz\wymierne\wymierna.cpp
+	"Wymierna.h"
+
+1524499044 c:\users\chemi\desktop\programowanie\c++\7\macierz\wymierne\wyjatki.h
+

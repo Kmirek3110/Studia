@@ -1,0 +1,8 @@
+div::after {
+  content: " co tam";
+  color: blue;
+}
+div::before{
+    content:"No";
+    color: yellow;
+}

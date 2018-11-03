@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1522165315 source:c:\users\chemi\desktop\programowanie\c++\5\wydarzenia\main.cpp
+	<iostream>
+	<chrono>
+	<ctime>
+	"Data.h"
+	"DataGodz.h"
+	"Wydarzenie.h"
+	<vector>
+	<algorithm>
+	<cstdlib>
+
+1522086907 c:\users\chemi\desktop\programowanie\c++\5\wydarzenia\data.h
+	<iostream>
+	<chrono>
+	<ctime>
+
+1522086907 source:c:\users\chemi\desktop\programowanie\c++\5\wydarzenia\data.cpp
+	"Data.h"
+	<iostream>
+	<chrono>
+	<ctime>
+	<cmath>
+
+1522080218 c:\users\chemi\desktop\programowanie\c++\5\wydarzenia\datagodz.h
+	<iostream>
+	<chrono>
+	<ctime>
+	"Data.h"
+
+1522081899 source:c:\users\chemi\desktop\programowanie\c++\5\wydarzenia\datagodz.cpp
+	"DataGodz.h"
+	"Data.h"
+	<iostream>
+	<chrono>
+	<ctime>
+	<cmath>
+
+1522081663 c:\users\chemi\desktop\programowanie\c++\5\wydarzenia\wydzarzenie.h
+	"Data.h"
+	"DataGodz.h"
+	<iostream>
+
+1522165315 source:c:\users\chemi\desktop\programowanie\c++\5\wydarzenia\wydarzenie.cpp
+	"Data.h"
+	"DataGodz.h"
+	<iostream>
+	"Wydarzenie.h"
+
+1522085456 source:c:\users\chemi\desktop\wydarzenia\data.cpp
+	"Data.h"
+	<iostream>
+	<chrono>
+	<ctime>
+	<cmath>
+
+1522085456 c:\users\chemi\desktop\wydarzenia\data.h
+	<iostream>
+	<chrono>
+	<ctime>
+
+1522081899 source:c:\users\chemi\desktop\wydarzenia\datagodz.cpp
+	"DataGodz.h"
+	"Data.h"
+	<iostream>
+	<chrono>
+	<ctime>
+	<cmath>
+
+1522080218 c:\users\chemi\desktop\wydarzenia\datagodz.h
+	<iostream>
+	<chrono>
+	<ctime>
+	"Data.h"
+
+1522081608 source:c:\users\chemi\desktop\wydarzenia\main.cpp
+	<iostream>
+	<chrono>
+	<ctime>
+	"Data.h"
+	"DataGodz.h"
+	"Wydzarzenie.h"
+	<vector>
+	<algorithm>
+	<cstdlib>
+
+1522081663 c:\users\chemi\desktop\wydarzenia\wydzarzenie.h
+	"Data.h"
+	"DataGodz.h"
+	<iostream>
+
+1522080266 source:c:\users\chemi\desktop\wydarzenia\wydarzenie.cpp
+	"Data.h"
+	"DataGodz.h"
+	<iostream>
+	"Wydzarzenie.h"
+
+1522081663 c:\users\chemi\desktop\programowanie\c++\5\wydarzenia\wydarzenie.h
+	"Data.h"
+	"DataGodz.h"
+	<iostream>
+
