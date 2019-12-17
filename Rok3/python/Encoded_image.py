@@ -33,11 +33,12 @@ class photoeditor:
         for i in range(decoded.shape[0]):
             for j in range(decoded.shape[1]):
                 if decoded[i][j][0] != real[i][j][0]:
-                    code.append(chr(int(round((decoded[i][j][0] - real[i][j][0]) *10))))
+                    code.append(chr(int(round((decoded[i][j][0] \
+                         - real[i][j][0]) * 10))))
         return "".join(code)
 
 
-zdjecie = photo("raven.png")
+zdjecie = photo("red.png")
 editor = photoeditor()
 to_encode = "mysterious mystery"
 Encoded = editor.encode(zdjecie, to_encode)
