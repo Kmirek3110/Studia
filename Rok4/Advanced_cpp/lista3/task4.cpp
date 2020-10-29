@@ -6,41 +6,32 @@ using namespace std;
 
 
 template<typename From, typename To>
-void  foo_impl(From val, To& rec, true_type){
+void  move_to_extra(From val, To& rec, true_type){
     if(is_convertible<typename remove_pointer<From>::type,To>::value){
-        // cout<<*val<<" val "<< endl;
-        // cout<<rec<<" rec "<<endl;
         rec = (To&&)move(*val);
-        // cout<<*val<<" val "<< endl;
-        // cout<<rec<<" rec "<<endl;
-        cout<<"UDało sie ze wskaznikiem"<<endl;
+        cout<<"Move using pointer"<<endl;
         val = nullptr;
         return ;
         
     };
-    cout<<"NIe da sie tego skonwertowac"<<endl;
+    cout<<"Failed to convert"<<endl;
 }
 
 template<typename From, typename To>
-void foo_impl(From& val, To& rec, false_type){
+void move_to_extra(From& val, To& rec, false_type){
     if(is_convertible<From,To>::value){
-        // cout<<val<<" val "<< endl;
-        // cout<<rec<<" rec "<<endl;
-        // cout<<&val<<endl;
-        cout<<"Udalo sie bez wskaznika"<<endl;
+        cout<<"Move without pointer sucessfuly"<<endl;
         rec = (To&&)(move(val));
-        // cout<<val<<" val "<< endl;
-
         return ;
     }
-    cout<<"NIe da sie tego skonwertowac"<<endl;
+    cout<<"Failed to convert"<<endl;
 }
 
 
 
 template<typename From, typename To>
-void foo(From val, To& rec){
-    foo_impl(val, rec, is_pointer<From>());
+void move_to(From val, To& rec){
+    move_to_extra(val, rec, is_pointer<From>());
 }
 
 
@@ -51,14 +42,14 @@ int main(){
     string s2;
     string* s3 = new string ("123abc");
 
-    foo(s1, s2);
+    move_to(s1, s2);
 
     cout<<"Test1"<<endl;
     cout<<s1<<endl;
     cout<<s2<<endl;
 
     cout<<"Test2"<<endl;
-    foo(s3,s2);
+    move_to(s3,s2);
     cout<<s3<<endl;
     cout<<s2<<endl;
     
@@ -67,7 +58,7 @@ int main(){
     A a;
     B b;
 
-    foo(b,a);
+    move_to(b,a);
 
     return 0;
 }
