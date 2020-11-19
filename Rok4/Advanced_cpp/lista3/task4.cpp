@@ -9,10 +9,8 @@ template<typename From, typename To>
 void  move_to_extra(From val, To& rec, true_type){
     if(is_convertible<typename remove_pointer<From>::type,To>::value){
         rec = (To&&)move(*val);
-        cout<<"Move using pointer"<<endl;
-        val = nullptr;
-        return ;
-        
+        cout<<"Convertion and move with pointer succesfuly"<<endl;
+        return ;      
     };
     cout<<"Failed to convert"<<endl;
 }
@@ -20,7 +18,7 @@ void  move_to_extra(From val, To& rec, true_type){
 template<typename From, typename To>
 void move_to_extra(From& val, To& rec, false_type){
     if(is_convertible<From,To>::value){
-        cout<<"Move without pointer sucessfuly"<<endl;
+        cout<<"Move and convertion without pointer sucessfuly"<<endl;
         rec = (To&&)(move(val));
         return ;
     }

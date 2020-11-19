@@ -1,0 +1,143 @@
+Name : karol
+Surname : mirek
+Age : 12
+Height : 189
+Weight : 200
+
+Name : agata
+Surname : dfgxcz
+Age : 14
+Height : 170
+Weight : 59
+
+Name : maciek
+Surname : sdfsdf
+Age : 17
+Height : 178
+Weight : 83
+
+Name : agnieszka
+Surname : asdas
+Age : 222
+Height : 180
+Weight : 62
+
+Name : julka
+Surname : asdasd
+Age : 123
+Height : 155
+Weight : 43
+
+Name : kinga
+Surname : asdasd
+Age : 21
+Height : 167
+Weight : 55
+
+Name : pawel
+Surname : qweqwe
+Age : 28
+Height : 176
+Weight : 212
+
+Name : marcin
+Surname : fsgsdf
+Age : 32
+Height : 186
+Weight : 123
+
+Name : tomek
+Surname : asdsad
+Age : 30
+Height : 181
+Weight : 69
+
+Name : bogdan
+Surname : zxczx
+Age : 26
+Height : 170
+Weight : 90
+
+Name : ania
+Surname : xsad
+Age : 269
+Height : 160
+Weight : 40
+
+RANDOM SHUFFLE --------------------------
+Name : julka
+Surname : asdasd
+Age : 123
+Height : 155
+Weight : 43
+
+Name : agnieszka
+Surname : asdas
+Age : 222
+Height : 180
+Weight : 62
+
+Name : agata
+Surname : dfgxcz
+Age : 14
+Height : 170
+Weight : 59
+
+Name : maciek
+Surname : sdfsdf
+Age : 17
+Height : 178
+Weight : 83
+
+Name : karol
+Surname : mirek
+Age : 12
+Height : 189
+Weight : 200
+
+Name : kinga
+Surname : asdasd
+Age : 21
+Height : 167
+Weight : 55
+
+Name : marcin
+Surname : fsgsdf
+Age : 32
+Height : 186
+Weight : 123
+
+Name : bogdan
+Surname : zxczx
+Age : 26
+Height : 170
+Weight : 90
+
+Name : ania
+Surname : xsad
+Age : 269
+Height : 160
+Weight : 40
+
+Name : tomek
+Surname : asdsad
+Age : 30
+Height : 181
+Weight : 69
+
+Name : pawel
+Surname : qweqwe
+Age : 28
+Height : 176
+Weight : 212
+
+Name : ania
+Surname : xsad
+Age : 269
+Height : 160
+Weight : 40
+Name : karol
+Surname : mirek
+Age : 12
+Height : 189
+Weight : 200
