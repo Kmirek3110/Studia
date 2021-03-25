@@ -15,11 +15,16 @@ def opt_dist(row, size):
     return change
 
 def correct_rows(img, correct_per_rows):
+    wrong_rows = []
     for init, row  in enumerate(img):
         if opt_dist(row, correct_per_rows[init]) > 0 :
-            return (False, init) 
+            wrong_rows.append(init)
+            
+    if wrong_rows == []:
+        return (True, -1)
+
+    return (False, random.choice(wrong_rows)) 
     
-    return (True, -1)
 
 def correct_columns(img, correct_per_columns, rows, columns):
     col_img = [[0 for _ in range(columns)]for _ in range(rows)]
@@ -27,11 +32,17 @@ def correct_columns(img, correct_per_columns, rows, columns):
         for y in range(columns):
             col_img[x][y] = img[y][x]
 
+    wrong_cols = []
+
     for init, column  in  enumerate(col_img):
         if opt_dist(column, correct_per_columns[init]) > 0 :
-            return (False, init) 
+            wrong_cols.append(init)
+    if wrong_cols == []:
+        return (True, -1)
+
+    return (False, random.choice(wrong_cols))  
     
-    return (True, -1)
+    
         
 def generate_img(rows, columns):
     img = [[0 for _ in range(columns)]for _ in range(rows)]
@@ -42,23 +53,6 @@ def generate_img(rows, columns):
                 img[i][j] += 1
     return img
 
-def maxime_position(img, correct_rows, correct_columns, idx, columns_wise = False):
-    idx = 0 
-    best_dist = 999999
-    act = 0
-    test = []
-    for i in range(columns):
-        act = img[rows_situation[1]][i]
-        img[rows_situation[1]][i] += 1
-        img[rows_situation[1]][i] %= 2
-        _val  = opt_dist(img[rows_situation[1]], correct_per_rows[rows_situation[1]])
-        test.append(_val)
-        if _val  < best_dist:
-            best_dist = _val
-            idx = i
-        img[rows_situation[1]][i] = act
-    img[rows_situation[1]][idx] += 1
-    img[rows_situation[1]][idx] %= 2
 
 def solve():
     output = open("zad5_output.txt", "w")
@@ -77,7 +71,7 @@ def solve():
 
     img = generate_img(rows, columns)
 
-    turns_to_fix = 10000
+    turns_to_fix = 1000
     while True:
         rows_situation = correct_rows(img, correct_per_rows)
         column_situation = correct_columns(img, correct_per_columns, rows, columns)
@@ -103,10 +97,7 @@ def solve():
             img[rows_situation[1]][idx] %= 2
    
         else:
-            print("start")
-            print(column_situation[1])
-            for row in img:
-                print(row)
+           
             idx = 0 
             best_dist = 999999
             act = 0
@@ -124,15 +115,11 @@ def solve():
            
             img[idx][column_situation[1]] += 1
             img[idx][column_situation[1]] %= 2
-            print("-------------------------")
-            for row in img:
-                print(row)
-            # exit()
-
+           
         turns_to_fix -= 1
         if turns_to_fix == 0:
             img = generate_img(rows, columns)
-            turns_to_fix = 10000
+            turns_to_fix = 1000
         
     for x in range(rows):
         row = ""
